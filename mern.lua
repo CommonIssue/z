@@ -1,3 +1,4 @@
+local mymod = 2612705398
 local success, err = pcall(function()
     for i,v in pairs(game.Players:GetChildren()) do
         if v.Character then
